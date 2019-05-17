@@ -3,7 +3,7 @@
 # 1. 简介
 这是我在学习UnityShader的时候，对一些常用的shader的学习与整理，大多是一些PostEffect的效果，一下列表中会详细讲解shader原理，以供大家学习。
 
-# 2，整理列表
+# 2.整理列表
 
  - [Bloom ](https://github.com/YESshowMeCode/CollectionOfUnityShader/tree/master/Assets/ShaderList/BloomImage)
  - [DissolveEffect](https://github.com/YESshowMeCode/CollectionOfUnityShader/tree/master/Assets/ShaderList/DissolveEffect)
