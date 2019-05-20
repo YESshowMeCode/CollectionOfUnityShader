@@ -8,7 +8,7 @@
  - [Bloom ](https://github.com/YESshowMeCode/CollectionOfUnityShader/tree/master/Assets/ShaderList/BloomImage)
  - [DissolveEffect](https://github.com/YESshowMeCode/CollectionOfUnityShader/tree/master/Assets/ShaderList/DissolveEffect)
  - [EdgeDetection](https://github.com/YESshowMeCode/CollectionOfUnityShader/tree/master/Assets/ShaderList/EdgeDetection)
- - [EdgeLight](https://github.com/YESshowMeCode/CollectionOfUnityShader/tree/master/Assets/ShaderList/)
+ - [EdgeLight](https://github.com/YESshowMeCode/CollectionOfUnityShader/tree/master/Assets/ShaderList/edgeLight)
  - [FieldDepth](https://github.com/YESshowMeCode/CollectionOfUnityShader/tree/master/Assets/ShaderList/FieldDepth)
  - [FishEye](https://github.com/YESshowMeCode/CollectionOfUnityShader/tree/master/Assets/ShaderList/FishEye)
  - [FlashEffect](https://github.com/YESshowMeCode/CollectionOfUnityShader/tree/master/Assets/ShaderList/FlashEffect)
