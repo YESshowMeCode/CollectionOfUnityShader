@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class MotionBlurWithDT : MonoBehaviour
+public class MotionBlurWithDepthTexture : MonoBehaviour
 {
 
     public Shader motionBlurShader;

@@ -1,7 +1,4 @@
-﻿//puppet_master
-//2018.4.20
-//后处理方式实现GodRay
-Shader "GodRay/PostEffect" {
+﻿Shader "GodRay/PostEffect" {
  
 	Properties{
 		_MainTex("Base (RGB)", 2D) = "white" {}

@@ -215,14 +215,11 @@ GameObject:
   - component: {fileID: 683212855}
   - component: {fileID: 683212856}
   - component: {fileID: 683212857}
-  - component: {fileID: 683212859}
   - component: {fileID: 683212858}
-  - component: {fileID: 683212861}
   - component: {fileID: 683212860}
   - component: {fileID: 683212863}
   - component: {fileID: 683212862}
   - component: {fileID: 683212864}
-  - component: {fileID: 683212865}
   - component: {fileID: 683212866}
   m_Layer: 0
   m_Name: Main Camera
@@ -397,21 +394,6 @@ MonoBehaviour:
   DropSpeed: 3.6
   WaterTexture: {fileID: 2800000, guid: 93d1994851a066a47803523c0cf7a465, type: 3}
   curShader: {fileID: 4800000, guid: 47566e836993a744681f3eebdf310ed1, type: 3}
---- !u!114 &683212859
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 683212847}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c92013be1bcf38341921e3a106cef933, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  CurShader: {fileID: 4800000, guid: f8c3f87b80525374591174806a659ed2, type: 3}
-  PixelNumPerRow: 580
-  AutoCalulateRatio: 1
-  Ratio: 1
 --- !u!114 &683212860
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -427,21 +409,6 @@ MonoBehaviour:
   blurSpread: 0.6
   downSample: 2
   curShader: {fileID: 4800000, guid: 68daeb256e94e47169269e893518f875, type: 3}
---- !u!114 &683212861
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 683212847}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c28c49317c2dc43bead7a1a11883ae55, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  briSatConShader: {fileID: 4800000, guid: a8bb1cedc6dbe4cce89478c01bd6d378, type: 3}
-  brightness: 1.19
-  saturation: 1.26
-  contrast: 1.15
 --- !u!114 &683212862
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -493,19 +460,6 @@ MonoBehaviour:
   waveWidth: 0.3
   waveSpeed: 0.3
   curShader: {fileID: 4800000, guid: 348ea076bbc3ee441b7b1e70856fd9a2, type: 3}
---- !u!114 &683212865
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 683212847}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d020e3ce85ebf41dd8f2ee2bf42e1838, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  motionBlurShader: {fileID: 4800000, guid: 990ce4d82ac499a489580f3e6e71e95a, type: 3}
-  blurSize: 0.5
 --- !u!114 &683212866
 MonoBehaviour:
   m_ObjectHideFlags: 0
