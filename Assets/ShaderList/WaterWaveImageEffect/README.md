@@ -47,4 +47,3 @@ WaterWaveImageEffect 水波效果，常用于游戏中的屏幕点击特效，�
 
 # 4.效果图
 ![image](https://github.com/YESshowMeCode/CollectionOfUnityShader/tree/master/Assets/ShaderList/WaterWaveImageEffect/L4VRGduUqq.gif)
-![alt text](https://github.com/YESshowMeCode/CollectionOfUnityShader/tree/master/Assets/ShaderList/WaterWaveImageEffect/L4VRGduUqq.gif)
