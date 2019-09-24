@@ -20,3 +20,4 @@
 
 # 3.代码实现
 # 4.效果图
+![image](https://github.com/YESshowMeCode/CollectionOfUnityShader/blob/master/Assets/ShaderList/EdgeDetection/Edge.gif)
