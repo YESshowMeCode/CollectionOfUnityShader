@@ -37,4 +37,5 @@ FishEye 鱼眼效果，常用于实现FPS游戏瞄准镜、某些物品的特殊
 			}
 
 #4.效果图
+![image](https://github.com/YESshowMeCode/CollectionOfUnityShader/blob/master/Assets/ShaderList/FishEye/FishEye.gif)
  
