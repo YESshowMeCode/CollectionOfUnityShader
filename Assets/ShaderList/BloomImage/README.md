@@ -47,5 +47,5 @@ Bloom特效是游戏中常见的一种屏幕效果，又称“全屏泛光”或
     }
     
 # 4.效果图    
-
+![image](https://github.com/YESshowMeCode/CollectionOfUnityShader/blob/master/Assets/ShaderList/BloomImage/ABFP01Nm2I.gif)
  
