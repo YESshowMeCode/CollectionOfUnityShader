@@ -12,3 +12,4 @@ Depth of Field 景深效果是一个描述在空间中们可以清楚成像的�
 
 # 4.效果图
  
+![image](https://github.com/YESshowMeCode/CollectionOfUnityShader/blob/master/Assets/ShaderList/FieldDepth/FieldDepth.gif)
