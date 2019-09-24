@@ -6,3 +6,4 @@
 
 
 # 2.效果图
+![image](https://github.com/YESshowMeCode/CollectionOfUnityShader/blob/master/Assets/ShaderList/edgeLight/EdgeLight.gif)
