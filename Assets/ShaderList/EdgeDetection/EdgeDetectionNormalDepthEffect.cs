@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class EdgeDetectNormalDepthEffect : PostEffectsBase
+public class EdgeDetectionNormalDepthEffect : PostEffectsBase
 {
 
     public Shader edgeDetectShader;

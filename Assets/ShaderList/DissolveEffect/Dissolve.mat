@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Dissolve
-  m_Shader: {fileID: 4800000, guid: 407ab8d8a7270da40bf342648aec9c4f, type: 3}
+  m_Shader: {fileID: 4800000, guid: e5cdc3120f1e482449d9304ceb776f89, type: 3}
   m_ShaderKeywords: _NORMALMAP
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -87,7 +87,7 @@ Material:
     - _BurnSecondColor: {r: 1, g: 0, b: 0, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Diffuse: {r: 1, g: 1, b: 1, a: 1}
-    - _DissolveColor: {r: 0, g: 0, b: 0, a: 0}
+    - _DissolveColor: {r: 0.01886791, g: 0.01886791, b: 0.01886791, a: 0}
     - _DissolveColorA: {r: 0, g: 0, b: 0, a: 0}
     - _DissolveColorB: {r: 1, g: 1, b: 1, a: 1}
     - _DissolveEdgeColor: {r: 1, g: 1, b: 1, a: 1}

@@ -114,7 +114,7 @@ Shader "Hidden/BlurOptimizedShader" {
 
 		v2f_withBlurCoordsSGX vertBlurHorizontalSGX (appdata_img v)
 		{
-			v2f_withBlurCoordsSGX o
+			v2f_withBlurCoordsSGX o;
 			o.pos = UnityObjectToClipPos(v.vertex);
 			
 			o.uv = UnityStereoScreenSpaceUVAdjust(v.texcoord.xy, _MainTex_ST);
