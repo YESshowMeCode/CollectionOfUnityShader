@@ -125,6 +125,7 @@ GameObject:
   - component: {fileID: 619467386}
   - component: {fileID: 619467385}
   - component: {fileID: 619467389}
+  - component: {fileID: 619467390}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -212,6 +213,14 @@ MonoBehaviour:
   DropSpeed: 3.6
   WaterTexture: {fileID: 2800000, guid: 93d1994851a066a47803523c0cf7a465, type: 3}
   curShader: {fileID: 4800000, guid: 47566e836993a744681f3eebdf310ed1, type: 3}
+--- !u!45 &619467390
+Skybox:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 619467384}
+  m_Enabled: 1
+  m_CustomSkybox: {fileID: 2100000, guid: da976b1a4f7ebb949b0f71341e4f1821, type: 2}
 --- !u!1 &1470909549
 GameObject:
   m_ObjectHideFlags: 0

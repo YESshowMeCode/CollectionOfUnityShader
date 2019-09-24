@@ -64,7 +64,7 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _RimPower: 1.12
+    - _RimPower: 0.5
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
