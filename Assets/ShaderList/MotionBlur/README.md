@@ -42,3 +42,4 @@ MotionBlurEffect 运动模糊效果，是游戏中最常见的特效之一，常
 		}
 
 # 4.效果图
+![image](https://github.com/YESshowMeCode/CollectionOfUnityShader/blob/master/Assets/ShaderList/MotionBlur/MotionBlur.gif)

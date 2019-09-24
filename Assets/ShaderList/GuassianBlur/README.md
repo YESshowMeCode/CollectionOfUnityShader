@@ -58,3 +58,5 @@ GuassianBlur 高斯模糊，又叫做高斯平滑。高斯模糊主要的功能�
 		}
 
 # 4.效果图
+![image](https://github.com/YESshowMeCode/CollectionOfUnityShader/blob/master/Assets/ShaderList/GuassianBlur/Blur.gif)
+ 
