@@ -64,7 +64,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _BumpScale: 1
-    - _BurnAmount: 1
+    - _BurnAmount: 0
     - _ColorFactor: 0.7
     - _ColorFactorA: 0.7
     - _ColorFactorB: 0.8
