@@ -8,6 +8,8 @@
 
 // Helper functions, maybe move into UnityCG.cginc
 
+// 如果Shader Mode<3.0，返回镜面反射颜色的R通道。否则，返回镜面反射颜色RGB三个通道中最大的通道值。
+// Note：Shader Mode 2.0由于指令数的限制，简化了这项运算，直接返回R通道值（因为大多数的金属要么是单色，要么是淡黄色/黄色调的，主要影响的是R通道）。
 half SpecularStrength(half3 specular)
 {
     #if (SHADER_TARGET < 30)
@@ -19,7 +21,7 @@ half SpecularStrength(half3 specular)
     #endif
 }
 
-// Diffuse/Spec Energy conservation
+// Diffuse/Spec Energy conservationm 计算oneMinusReflectivity
 inline half3 EnergyConservationBetweenDiffuseAndSpecular (half3 albedo, half3 specColor, out half oneMinusReflectivity)
 {
     oneMinusReflectivity = 1 - SpecularStrength(specColor);
